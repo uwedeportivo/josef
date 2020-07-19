@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr.Josef Hoffmann"
-  avatar           : "images/josef.jpeg"
+  avatar           : "josef.jpeg"
   bio              : "Retired Professor of Digital Signal Processing"
   location         : "Location"
   employer         :

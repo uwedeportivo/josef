@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Josef Hoffmann"
 title_separator          : "-"
 name                     : &name "Dr. Josef Hoffmann"
-description              : &description "Retired Professor of Digital Signal Processing"
+description              : &description "Retired Professor of Digital Signal Processing, Photography Enthusiast"
 url                      : https://uwedeportivo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/josef" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/uwedeportivo/josef"
@@ -85,8 +85,6 @@ author:
   bio              : "Retired Professor of Digital Signal Processing"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,25 +94,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  fotocommunity.de : https://www.fotocommunity.de/user_photos/708133
 
 
 # Reading Files

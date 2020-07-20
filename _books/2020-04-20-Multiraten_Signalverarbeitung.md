@@ -24,5 +24,3 @@ Die Simulationen ermöglichen anspruchsvolle mathematische Beweisführungen zu u
 Die praktischen Simulationsbeispielen, die zur Wiederholung, Reflexion und Weiterentwicklung der behandelten 
 Themen dienen, sollen die Leser anregen, kreativ eigene Simulationen zu entwickeln und untersuchen.
 
-Recommended citation: Hoffmann, Josef. Multiraten Signalverarbeitung, Filterbänke und Wavelets: verständlich erläutert mit MATLAB/Simulink. Germany: De Gruyter, 2020.
-

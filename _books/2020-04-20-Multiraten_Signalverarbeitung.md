@@ -5,7 +5,7 @@ permalink: /books/Multiraten_Signalverarbeitung
 excerpt: 'Multirate Systeme, Filterbänke und Wavelets mit Hilfe der MATLAB/Simulink Software.'
 date: 2020-04-20
 venue: 'De Gruyter'
-citation: 'Hoffmann, Josef. Multiraten Signalverarbeitung, Filterbänke und Wavelets: verständlich erläutert mit MATLAB/Simulink. Germany: De Gruyter, 2020..'
+citation: 'Hoffmann, Josef. Multiraten Signalverarbeitung, Filterbänke und Wavelets: verständlich erläutert mit MATLAB/Simulink. Germany: De Gruyter, 2020.'
 ---
 
 ![Book cover](https://uwedeportivo.github.io/josef/images/570055.png)

@@ -58,6 +58,9 @@
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
+      {% if author.fotocommunity %}
+        <li><a href="www.fotocommunity.de/user_photos/{{ author.fotocommunity }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Fotocommunity</a></li>
+      {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}

@@ -11,6 +11,7 @@ citation: 'Hoffmann, Josef. Multiraten Signalverarbeitung, Filterbänke und Wave
 ![Book cover](https://uwedeportivo.github.io/josef/images/570055.png)
 
 [Buchseite beim Verlag](https://www.degruyter.com/view/title/570055)
+
 Das vorliegende Buch stellt einige grundlegende Themen der Multirate Systeme, Filterbänke und Wavelets mit Hilfe
  der MATLAB/Simulink Software nach dem Motto ''Mit Logik wird bewiesen, mit Intuition wird erfunden'' (Henri Poincare)
   dar. Diesen Gedanken haben die Autoren auch in den vorherigen Büchern ''Signalverarbeitung mit MATLAB und Simulink''

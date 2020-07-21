@@ -1,8 +1,11 @@
 # main links links
 main:
-  - title: "Books"
+  - title: "Bücher"
     url: /books/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Fotos"
+    url: /fotos/
 

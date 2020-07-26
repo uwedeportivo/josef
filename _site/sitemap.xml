@@ -5,8 +5,16 @@
 <lastmod>1999-01-01T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4001/books/Spektrale_Analyse</loc>
+<lastmod>2011-12-02T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4001/books/Wechselstromtechnik</loc>
 <lastmod>2013-07-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4001/books/Simulation_technischer_linearer_und_nichtlinearer_Systeme</loc>
+<lastmod>2014-08-19T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4001/books/Signalverarbeitung_in_Beispielen</loc>

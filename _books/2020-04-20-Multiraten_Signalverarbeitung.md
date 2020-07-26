@@ -8,7 +8,7 @@ venue: 'De Gruyter'
 citation: 'Hoffmann, Josef. Multiraten Signalverarbeitung, Filterbänke und Wavelets: verständlich erläutert mit MATLAB/Simulink. Germany: De Gruyter, 2020.'
 ---
 
-![Book cover](/images/books/2020-04-20-Multiraten_Signalverarbeitung.png)
+![Book cover](/josef/images/books/2020-04-20-Multiraten_Signalverarbeitung.png)
 
 [Buchseite beim Verlag](https://www.degruyter.com/view/title/570055)
 

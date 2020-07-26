@@ -8,7 +8,7 @@ venue: 'De Gruyter'
 citation: 'Quint, F., Hoffmann, J. (2014). Simulation technischer linearer und nichtlinearer Systeme mit MATLAB/Simulink. Germany: De Gruyter.'
 ---
 
-![Book cover](/images/books/2014-08-19-Simulation_technischer_linearer_und_nichtlinearer_Systeme.png)
+![Book cover](/josef/images/books/2014-08-19-Simulation_technischer_linearer_und_nichtlinearer_Systeme.png)
 
 [Buchseite beim Verlag](https://www.degruyter.com/view/title/320091)
 

@@ -8,7 +8,7 @@ venue: 'Addison-Wesley'
 citation: 'Hoffmann, J. (1999). MATLAB und SIMULINK in Signalverarbeitung und Kommunikationstechnik. Germany: Addison-Wesley.'
 ---
 
-![Book cover](/images/books/1999-01-01-MATLAB_und_SIMULINK_in_Signalverarbeitung_und_Kommunikationstechnik.png)
+![Book cover](/josef/images/books/1999-01-01-MATLAB_und_SIMULINK_in_Signalverarbeitung_und_Kommunikationstechnik.png)
 
 [Buchseite bei Google Books](https://www.google.com/books/edition/_/NEQOmoALobYC?hl=en)
 

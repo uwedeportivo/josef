@@ -8,7 +8,7 @@ venue: 'De Gruyter'
 citation: 'Quint, F., Hoffmann, J. (2016). Signalverarbeitung in Beispielen: Verständlich erläutert mit Matlab und Simulink. Germany: De Gruyter.'
 ---
 
-![Book cover](/images/books/2016-09-12-Signalverarbeitung_in_Beispielen.png)
+![Book cover](/josef/images/books/2016-09-12-Signalverarbeitung_in_Beispielen.png)
 
 [Buchseite beim Verlag](https://www.degruyter.com/view/title/518577)
 

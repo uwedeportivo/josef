@@ -8,7 +8,7 @@ venue: 'De Gruyter'
 citation: 'Hoffmann, J. (2011). Spektrale Analyse mit MATLAB und Simulink: Anwendungsorientierte Computer-Experimente. Germany: De Gruyter.'
 ---
 
-![Book cover](/images/books/2011-12-02-Spektrale_Analyse_mit_MATLAB_und_Simulink.png)
+![Book cover](/josef/images/books/2011-12-02-Spektrale_Analyse_mit_MATLAB_und_Simulink.png)
 
 [Buchseite beim Verlag](https://www.degruyter.com/view/title/317216)
 

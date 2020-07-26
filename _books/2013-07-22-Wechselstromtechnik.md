@@ -8,7 +8,7 @@ venue: 'De Gruyter'
 citation: 'Klönne, A., Hoffmann, J. (2013). Wechselstromtechnik: Anwendungsorientierte Simulationen in Matlab. Germany: De Gruyter.'
 ---
 
-![Book cover](/images/books/2013-07-22-Wechselstromtechnik.png)
+![Book cover](/josef/images/books/2013-07-22-Wechselstromtechnik.png)
 
 [Buchseite beim Verlag](https://www.degruyter.com/view/title/308593)
 
